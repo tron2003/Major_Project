@@ -1,0 +1,7 @@
+pygame
+streamlit
+pandas
+numpy
+pretty_midi
+altair
+tensorflow==2.10.0
